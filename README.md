@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/Matthewpco/Wordpress-Earthtohome/blob/master/img/eth-ss1.png?raw=true)
 
 # This is Earth to Home a WordPress website made for a natural food and medicine small business.
 
